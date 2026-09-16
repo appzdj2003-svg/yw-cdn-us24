@@ -1,0 +1,12 @@
+{
+  "region": "us",
+  "version": 1,
+  "files": [
+    {
+      "name": "land.geojson",
+      "url": "https://github.com/appzdj2003-svg/yw-cdn-us24/releases/download/land-us-v1/us-land.geojson"
+    }
+  ],
+  "geojsonUrl": "https://github.com/appzdj2003-svg/yw-cdn-us24/releases/download/land-us-v1/us-land.geojson",
+  "note": "PAD-US 4.x Open Access (OA) CONUS simplified — public land guide, not a survey"
+}
