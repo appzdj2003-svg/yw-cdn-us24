@@ -1,0 +1,7 @@
+{
+  "region": "world",
+  "version": 1,
+  "files": [],
+  "geojsonUrl": null,
+  "note": "WORLD entitlement unlocks US+CA+EU+AU. Download each regional pack separately (no combined WORLD geojson). Regional deps: us→land-us-v1, ca→land-ca-v1, eu→land-eu-v1, au→land-au-v1. Guide only, not a survey."
+}

@@ -1,0 +1,12 @@
+{
+  "region": "eu",
+  "version": 1,
+  "files": [
+    {
+      "name": "land.geojson",
+      "url": "https://github.com/appzdj2003-svg/yw-cdn-us24/releases/download/land-eu-v1/eu-land.geojson"
+    }
+  ],
+  "geojsonUrl": "https://github.com/appzdj2003-svg/yw-cdn-us24/releases/download/land-eu-v1/eu-land.geojson",
+  "note": "EEA NatDA/CDDA 2025 (CC-BY 4.0) largest European sites simplified — public land guide, not a survey"
+}
