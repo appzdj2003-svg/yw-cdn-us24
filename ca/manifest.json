@@ -1,0 +1,12 @@
+{
+  "region": "ca",
+  "version": 1,
+  "files": [
+    {
+      "name": "land.geojson",
+      "url": "https://github.com/appzdj2003-svg/yw-cdn-us24/releases/download/land-ca-v1/ca-land.geojson"
+    }
+  ],
+  "geojsonUrl": "https://github.com/appzdj2003-svg/yw-cdn-us24/releases/download/land-ca-v1/ca-land.geojson",
+  "note": "CPCAD 2025 terrestrial (Open Government Licence – Canada) simplified — public land guide, not a survey"
+}
